@@ -1,6 +1,6 @@
 # Rajani Vijayakumar portfolio
 
-A responsive professional portfolio built with plain HTML, CSS and JavaScript. It introduces healthcare technology, quality engineering and application support experience, alongside an ongoing journey in AI and machine learning.
+A portfolio built with plain HTML, CSS and JavaScript. It briefs my technology experience across application maintenance and support, quality engineering in multiple domains and technologies alongside an ongoing journey in AI and machine learning.
 
 The hospital readmission project is **in progress**. The page does not claim validated model results or a deployed clinical application.
 
@@ -52,6 +52,10 @@ The site uses semantic landmarks, a keyboard skip link, visible focus styles and
 
 There is no backend, database, contact form, analytics, cookie, browser storage or external font. Displaying the page requires no third-party assets. Following the LinkedIn contact link navigates to an external service.
 
+## Development approach
+
+This portfolio was developed with assistance from OpenAI Codex. The repository owner defined its purpose, content direction, reviewed and refined the generated implementation.
+
 ## Verification and limits
 
 Local checks cover HTML/CSS/JavaScript responses, asset references, section links, JavaScript syntax, desktop and narrow layouts, skip-link focus, theme toggling and the project disclosure. Files outside `site/` are outside the preview web root.
@@ -62,4 +66,4 @@ These checks are not a complete accessibility or browser compatibility audit. Sc
 
 This repository contains source code. GitHub Pages and other website hosting are not enabled. A future deployment would publish only `site/`; choosing a host and optional custom domain is a separate decision.
 
-Next steps include refining the portfolio copy, documenting the readmission project's methods and limitations when evidence is ready, and learning how deployment, DNS and HTTPS fit together. Add a backend only when a feature needs server-side processing or protected credentials. Never put secrets in browser-delivered files or commit private documents.
+
