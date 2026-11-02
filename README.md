@@ -2,7 +2,7 @@
 
 A portfolio built with plain HTML, CSS and JavaScript. It briefs my technology experience across application maintenance and support, quality engineering in multiple domains and technologies alongside an ongoing journey in AI and machine learning.
 
-The hospital readmission project is **in progress**. The page does not claim validated model results or a deployed clinical application.
+The hospital readmission project is **complete for portfolio purposes**. It is a learning project, not a clinically validated or production-ready application.
 
 ## Project structure
 
